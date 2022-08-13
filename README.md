@@ -6,4 +6,4 @@ Specifically, I focused on estimating the quality of neural machine translations
 Whilst the above model was able to outperform the baseline models in all language pairs (which includes 12 different language pairs) and in zero shot situations, it was unable to close the gap with the current state-of-the-art performance. 
 
 # To use:
-I recommend using GCP for the training and evaluation of model. To do so, simply import the repository into Google Cloud Platform and run the codes in en_de.ipynb.
+I recommend using GPU through Google Cloud Platform (GCP) for the training and evaluation of model. To do so, simply import the repository into Google Cloud Platform and run the codes in en_de.ipynb.
